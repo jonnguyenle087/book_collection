@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# book_collection
+Repo that contains my book collection app
+>>>>>>> bf0fed008cc667ebc8e621207c660b963c5465b9
